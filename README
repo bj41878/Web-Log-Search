@@ -1,0 +1,7 @@
+=== Web-Log-Search: Wyszukiwarka polskich blogów ===
+
+Funkcjonalność:
+* Wpisujemy zapytania, wyszukiwarka zwraca blogi i ich poszczególne wpisy pasujące do zapytań
+Wymagania
+* Scrawlować dużo polskich blogów.
+* Opracować PageRank dla blogów ze szczególnym uwzględnieniem blogrolli.
